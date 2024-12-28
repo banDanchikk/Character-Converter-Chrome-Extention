@@ -1,0 +1,13 @@
+{
+    "name": "Text Converter",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "Danylo Bolkun",
+    "icons": {
+        "128": "language.png"
+    },
+    "action":{
+        "default_popup": "index.html",
+        "default_title":"Text Converter"
+    }
+}
