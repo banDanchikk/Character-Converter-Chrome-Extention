@@ -4,7 +4,7 @@ A Chrome extension that converts input Ukrainian characters into their correspon
 - Converts Ukrainian characters to English equivalents.
 - Works seamlessly in text input fields.
 - Lightweight and easy to use.
-## Installation:
+## Installation
 - Clone this repository.
 ## Usage
 - Start typing in Ukrainian, and the extension will convert the characters to English.
